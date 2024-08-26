@@ -1,0 +1,14 @@
+names:
+- dinosaur
+- elephant
+- plane
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: stajpr
+  url: https://universe.roboflow.com/staj-dtij6/stajpr/dataset/1
+  version: 1
+  workspace: staj-dtij6
+test: ../test/images
+train: StajPr-1/train/images
+val: StajPr-1/valid/images

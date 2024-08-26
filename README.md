@@ -21,6 +21,7 @@ Projeyi yerel makinenize klonlamak ve gerekli kütüphaneleri kurmak için şu a
 Depoyu Klonlayın:
 
 git clone https://github.com/kavalugur/YOLO-Powered-Image-Processinga-Classification-Suite.git
+
 cd YOLO-Powered-Image-Processinga-Classification-Suite
 
 Gereksinimleri Yükleyin:

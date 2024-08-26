@@ -1,4 +1,4 @@
-README: YOLO-Powered Image Processing and Classification Suite
+YOLO-Powered Image Processing and Classification Suite
 Proje Tanımı
 YOLO-Powered Image Processing and Classification Suite projesi, gelişmiş görüntü işleme ve sınıflandırma tekniklerini kullanarak çeşitli nesneleri (fil, uçak, dinozor) otomatik olarak algılamayı ve sınıflandırmayı amaçlamaktadır. YOLO modellerinin (YOLOv8 ve YOLO-NAS) güçlü yönlerinden yararlanan bu proje, veri artırma ve segmentasyon teknikleriyle model doğruluğunu artırmaktadır. Proje, nesne algılama ve sınıflandırma alanında araştırmalar yapmak isteyenler için sağlam bir temel sunar.
 
